@@ -1,3 +1,3 @@
 # pizza
 
-![Alt text](/iamges/pizza-front.jpg?raw=true "Pizza Front")
+![Alt text](/images/pizza-front.jpg?raw=true "Pizza Front")
